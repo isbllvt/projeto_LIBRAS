@@ -89,9 +89,13 @@ O projeto está em fase de desenvolvimento. Atualmente, o foco é o reconhecimen
 ## Autores
 
 **Fernanda Brito Saraiva**
+
 **Franciéllen Sousa Araújo**
+
 **Isabelle Vitória Santiago Mendonça**
+
 **Joanna Marieli Trindade do Nascimento**
+
 **Tatyana Franciele Brasil Machado**
 
 Projeto desenvolvido no contexto acadêmico da **Universidade Federal do Oeste do Pará (UFOPA)**.
